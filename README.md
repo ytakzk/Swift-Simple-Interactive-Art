@@ -4,7 +4,7 @@
 
 Very simple interactive art work using Swift.
 
-Here, The circles are rendered with UIView for simplification so the rendering is not fast, which makes easy understanding of the syntax. 
+Here, the circles are rendered with UIView for simplification so the rendering is not fast, which makes easy understanding of the syntax. 
 ## The Interaction
 
 Initially, 100 balls with velocity are arranged on the screen.  
